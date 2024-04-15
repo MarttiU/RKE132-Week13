@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{383A2B6B-1E91-4E67-AA4A-6C0022AA7812}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.kood1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.kood3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.W13Osa4 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week13SQliteDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.W13osa5 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week13SQliteDB/Program.cs">
+    <Files>
+      <File FileName="Week13SQliteDB/Program.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week13SQliteDB" expanded="True">
+            <Node name="Week13SQliteDB" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.kood2 FirstBuild="True" />
+</Properties>
